@@ -1,8 +1,8 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+> _Juno is a dashboard for Product Managers and their team to help them bring legacy products to current product management standards_
 
-_Your name · cohort · date_
+Thierry Plante · November 3 - November 19
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
