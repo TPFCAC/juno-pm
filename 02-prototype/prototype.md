@@ -4,7 +4,7 @@
 
 ## Prototype link
 
-https://lovable.dev/preview/G0sdYszPzbwsirZEjlmwTAeMGYKSgY9m
+[https://lovable.dev/preview/G0sdYszPzbwsirZEjlmwTAeMGYKSgY9m](https://github-tool-launchpad.lovable.app)
 
 _____
 
